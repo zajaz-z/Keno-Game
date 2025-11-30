@@ -30,6 +30,10 @@ All interactions follow normal Keno constraints — if the user tries to do some
 Logic
 All drawing logic and match calculations are separate from the UI so they can be tested.
 Drawings produce 20 unique random numbers.
+
+https://github.com/user-attachments/assets/03892ade-27db-4f3b-ac10-39c63aa886c3
+
+
 Payouts follow the North Carolina State Lottery Keno rules for spots 1, 4, 8, and 10.
 
 Testing
